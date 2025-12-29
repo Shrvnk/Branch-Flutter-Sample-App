@@ -17,5 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 URI SCheme: fluttersample://
+
 Fallback: https://branch-web-three.vercel.app/
+
 Package: com.example.sample_flutter_app_shravan
